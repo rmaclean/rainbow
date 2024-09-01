@@ -4,7 +4,7 @@ A really simple function to just apply a cool rainbow effect to text provided in
 
 Example:
 ```typescript
-import { rainbowText } from "./main.ts";
+import { rainbowText } from '@sadev/rainbow';
 
 console.log(rainbowText("Hello World!"));
 ```
